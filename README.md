@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ashleyllew a mobile software engineer
-- 👀 I’m interested in accessibility, web design, and app development
+- 👋 Hi, I’m @ashleyllew an iOS engineer
+- 👀 I’m interested in accessibility, web design, and app dev
 - 🌱 I’m currently learning ...
 
 <!---
