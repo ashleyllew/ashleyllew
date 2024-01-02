@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashleyllew an Apple engineer
+- 👋 Hi, I’m @ashleyllew an iOS/tvOS engineer
 - 👀 I’m interested in accessibility, web design, and app development!
 
 <!---
